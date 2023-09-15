@@ -1,0 +1,5 @@
+---
+src-bucketname: 'aviation_dataset_processing-eu-west-1'
+src-prefix: 'RAW'
+dst-bucketname: 'aviation_dataset_processing-eu-west-1'
+dst-prefix: 'CLEAN_V3'
